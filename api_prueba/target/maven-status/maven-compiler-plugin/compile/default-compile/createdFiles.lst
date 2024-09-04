@@ -1,0 +1,4 @@
+com\pomalca\api_prueba\services\InventarioService.class
+com\pomalca\api_prueba\repositories\InventarioRepository.class
+com\pomalca\api_prueba\ApiPruebaApplication.class
+com\pomalca\api_prueba\controllers\InventarioController.class
